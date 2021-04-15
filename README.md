@@ -1,4 +1,4 @@
-# Dwinatech-shop
+# SHAN-MALL
 
 It is an e-commerce application, create by using React.js (Hooks), Matrial-UI, Commerce.js and Stripe.js, created for education and learning purpose.
 
@@ -18,4 +18,4 @@ https://matrixmm.ml/
 
 ### Mobile, IPad and Desktop
 
-<img src=https://github.com/thetnaing078/ShanMallEcommerce/blob/60b472d0c4f9a572cc5f2bfacf2cfd2e88ca0faf/public/SHANMALL.png" alt="website-image" />
+<img src=https://github.com/thetnaing078/ShanMallEcommerce/blob/72df1657d497bda74f6f301472283c7ae3cd345a/public/logo.png" alt="website-image" />
