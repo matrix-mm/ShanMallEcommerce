@@ -5,7 +5,7 @@ const Footer = () => {
 	const fullYear = date.getFullYear();
 	return (
 		<footer className="footer">
-			<p>All &copy; copy rights are reserved to SHAN MALL {fullYear}</p>
+			<p>All &copy; copy rights are reserved to SHAN MALL @ {fullYear}</p>
 		</footer>
 	);
 };

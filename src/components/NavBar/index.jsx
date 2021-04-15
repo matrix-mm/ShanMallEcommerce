@@ -14,8 +14,8 @@ const NavBar = ({ basketItems, totalCost }) => {
 					<Toolbar>
 						<Typography component={Link} to="/" variant="h6" className="custom-title" color="inherit">
 							<img
-								src="https://github.com/thetnaing078/shanmall/blob/1897eb836f787749852902a6202fa2aae87d57bc/src/assets/commerce.png?raw=true"
-								alt="ShanMall logo"
+								src="https://github.com/thetnaing078/ShanMallEcommerce/blob/489466503b38dae5b141df07338cd729341043c1/public/logo.png?raw=true"
+								alt="SHAN MALL logo"
 								height="25px"
 								className="logo"
 							/>
