@@ -18,4 +18,4 @@ https://60782cffdcf33ef6e94dd331--reverent-austin-dfda78.netlify.app/
 
 ### Mobile, IPad and Desktop
 
-<img src=https://github.com/thetnaing078/ShanMallEcommerce/blob/ea2829eff702d1b12db4f20d4a8985a053813098/public/SHAN%20MALL.png" />
+<img src="https://github.com/thetnaing078/ShanMallEcommerce/blob/ea2829eff702d1b12db4f20d4a8985a053813098/public/SHAN%20MALL.png" />
