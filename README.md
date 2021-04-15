@@ -18,4 +18,4 @@ https://matrixmm.ml/
 
 ### Mobile, IPad and Desktop
 
-<img src=https://github.com/thetnaing078/ShanMallEcommerce/blob/60b472d0c4f9a572cc5f2bfacf2cfd2e88ca0faf/public/SHANMALL.png?raw=true" alt="website-image" />
+<img src=https://github.com/thetnaing078/ShanMallEcommerce/blob/60b472d0c4f9a572cc5f2bfacf2cfd2e88ca0faf/public/SHANMALL.png" alt="website-image" />
