@@ -4,7 +4,7 @@ It is an e-commerce application, create by using React.js (Hooks), Matrial-UI, C
 
 ## Demo:
 
-https://60782cffdcf33ef6e94dd331--reverent-austin-dfda78.netlify.app/
+https://matrixmm.ml/
 
 ## How to develop it
 
